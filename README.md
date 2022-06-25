@@ -1,4 +1,6 @@
-# Opening and Closing
+### EX NO : 11
+### DATE  : 03.06.2022
+# <p align="center">Opening and Closing</p>
 
 ## Aim:
 To implement Opening and Closing using Python and OpenCV.
